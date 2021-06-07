@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 8e406506a7db7104ebc0f749fbb3214e
+  - enabled: 1
+    path: Assets/Scenes/Lo3ba Tartib.unity
+    guid: ea8137cf119711b419e36a63e41123d5
+  - enabled: 1
+    path: Assets/Scenes/RondomPhoto.unity
+    guid: 6aa9582e76d3a8042806186171cece3b
+  - enabled: 1
+    path: Assets/Scenes/Pot.unity
+    guid: cf143ec8140c39042b5934d78ccc23aa
+  - enabled: 1
+    path: Assets/Scenes/Maching.unity
+    guid: 2678a2a1b30ce1d4a8cae398a5a00d49
+  - enabled: 1
+    path: Assets/Scenes/Table.unity
+    guid: 4faa48faabd5f38469861daff940ff9d
+  - enabled: 1
+    path: Assets/Scenes/Coloration.unity
+    guid: 5383501b6ff31c746af066914ef5b000
+  - enabled: 1
+    path: Assets/Scenes/PutProject.unity
+    guid: 7e7052b83682d3446928633cf1b91489
+  - enabled: 1
+    path: Assets/Scenes/almokhtalifat.unity
+    guid: 0835fc3a0d298da42bc6fc1ce2b66880
+  - enabled: 1
+    path: Assets/Scenes/RT.unity
+    guid: 0fc360007ff9234439bad9d31ab4f2f1
+  - enabled: 1
+    path: Assets/Scenes/Emojies.unity
+    guid: 62a87ce0886fffc42a14a477576456fa
+  - enabled: 1
+    path: Assets/Scenes/Intro 1.unity
+    guid: 97efd811f6af63140bdfc3af3bbf33e7
+  - enabled: 1
+    path: Assets/Scenes/LogInto.unity
+    guid: fe6172a978d3bdc4bb7e8cac170acef0
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 61ff5d96085c5a64585a0b2df5b0e826, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: a9a7bd9931ee8424ba824ed77471f7f9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f7fcea8b3d4debd4bae892b8fb80ac3b, type: 2}
